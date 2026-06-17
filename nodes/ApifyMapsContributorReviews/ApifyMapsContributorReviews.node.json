@@ -1,0 +1,33 @@
+{
+	"node": "n8n-nodes-google-maps-contributor-reviews-api",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": [
+		"Data & Storage",
+		"Analytics"
+	],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://docs.apify.com/platform/integrations/n8n"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://apify.com/johnvc/google-maps-contributor-reviews-api?fpr=9n7kx3"
+			}
+		]
+	},
+	"alias": [
+		"google maps contributor reviews",
+		"contributor reviews",
+		"reviewer history",
+		"local guide",
+		"maps reviews",
+		"reviewer",
+		"review history",
+		"reviews",
+		"reputation",
+		"apify"
+	]
+}

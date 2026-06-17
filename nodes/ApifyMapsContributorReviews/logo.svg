@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none">
+  <!-- badge -->
+  <rect x="4" y="4" width="56" height="56" rx="14" fill="#DC2626"/>
+  <!-- person -->
+  <circle cx="32" cy="24" r="8" fill="#FECACA"/>
+  <path d="M18 48 C18 39 25 35 32 35 C39 35 46 39 46 48 Z" fill="#FECACA"/>
+  <!-- star badge -->
+  <path d="M44 14 l1.6 3.3 3.6 .5 -2.6 2.5 .6 3.6 -3.2 -1.7 -3.2 1.7 .6 -3.6 -2.6 -2.5 3.6 -.5 Z" fill="#FBBF24"/>
+</svg>
